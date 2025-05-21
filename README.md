@@ -1,4 +1,4 @@
-MoodJournal:
+MoodJournal (AI Semester Project): 
 
 MoodJournal is an AI-powered mood tracking journal built with Streamlit. It allows you to write daily entries, automatically detects your mood using advanced keyword and sentiment analysis, and provides motivational quotes and analytics.
 
