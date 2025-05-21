@@ -1,0 +1,44 @@
+{
+    "moods": {
+        "Joyful": {
+            "keywords": ["happy", "joy", "delighted", "ecstatic", "thrilled", "excited", "elated", "cheerful", "blissful", "content", "grateful", "blessed", "wonderful", "amazing", "fantastic"],
+            "quote": "Happiness is not something ready made. It comes from your own actions. - Dalai Lama"
+        },
+        "Peaceful": {
+            "keywords": ["calm", "peace", "serene", "tranquil", "relaxed", "content", "balanced", "centered", "mindful", "meditative", "quiet", "still", "harmony", "zen"],
+            "quote": "Peace is a daily, a weekly, a monthly process, gradually changing opinions, slowly eroding old barriers, quietly building new structures. - John F. Kennedy"
+        },
+        "Energetic": {
+            "keywords": ["energetic", "active", "vibrant", "dynamic", "enthusiastic", "motivated", "inspired", "passionate", "determined", "driven", "focused", "productive"],
+            "quote": "Energy and persistence conquer all things. - Benjamin Franklin"
+        },
+        "Creative": {
+            "keywords": ["creative", "inspired", "imaginative", "innovative", "artistic", "expressive", "original", "visionary", "inventive", "resourceful"],
+            "quote": "Creativity is intelligence having fun. - Albert Einstein"
+        },
+        "Neutral": {
+            "keywords": ["neutral", "normal", "regular", "usual", "typical", "standard", "average", "moderate", "balanced", "stable"],
+            "quote": "Life is a balance of holding on and letting go. - Rumi"
+        },
+        "Reflective": {
+            "keywords": ["thoughtful", "contemplative", "introspective", "meditative", "pensive", "philosophical", "deep", "meaningful", "insightful", "wise"],
+            "quote": "The unexamined life is not worth living. - Socrates"
+        },
+        "Anxious": {
+            "keywords": ["anxious", "worried", "nervous", "stressed", "tense", "uneasy", "apprehensive", "fearful", "panicked", "overwhelmed", "distressed", "troubled"],
+            "quote": "Anxiety does not empty tomorrow of its sorrows, but only empties today of its strength. - Charles Spurgeon"
+        },
+        "Sad": {
+            "keywords": ["sad", "unhappy", "depressed", "down", "blue", "gloomy", "melancholy", "heartbroken", "disappointed", "discouraged", "hopeless", "lonely"],
+            "quote": "The wound is the place where the Light enters you. - Rumi"
+        },
+        "Angry": {
+            "keywords": ["angry", "mad", "furious", "irritated", "annoyed", "frustrated", "outraged", "resentful", "bitter", "hostile", "aggressive", "enraged"],
+            "quote": "Holding onto anger is like drinking poison and expecting the other person to die. - Buddha"
+        },
+        "Confused": {
+            "keywords": ["confused", "uncertain", "doubtful", "perplexed", "puzzled", "bewildered", "disoriented", "lost", "uncertain", "hesitant", "indecisive"],
+            "quote": "The only true wisdom is in knowing you know nothing. - Socrates"
+        }
+    }
+} 

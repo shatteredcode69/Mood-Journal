@@ -1,0 +1,27 @@
+id,date,title,content,mood,mood_score
+eda5e331-69b1-4685-aa0b-40aed9eeaa48,2025-04-25,My mood,"Sad, happy, happy,sad,sad,sad,sad,sad",Neutral,0.1531
+47fd031c-003f-4d90-87d1-684782d7a3ad,2025-04-25,My mood,I was crushed by the blades of expectations.,Sad,-0.4215
+8d5c453b-61a3-4ae4-b942-cab69bafa96c,2025-04-26,New,I am depressed.,Sad,-0.5106
+036ccb83-ca4c-49d7-b0fe-db0517a2801c,2025-05-04,mood,I am feeling uneasy.,Anxious,-0.2732
+a7e45396-0736-4e17-b4d3-ed4c57ce1f5c,2025-05-04,mood,He is cheering up everyone out there.,Joyful,0.5106
+d423c0ad-0d22-4a7d-aeeb-c1fea58f0b09,2025-05-04,mood,She is so quiet.,Peaceful,0.0
+3f69fcaa-3c08-46d8-8a99-c4e041210540,2025-05-04,mood,My friend's mind is very determined.,Energetic,0.4005
+8f161888-db91-41f7-a0f1-55c0501b8edf,2025-05-04,mood,Our university's seminars are very innovative.,Creative,0.4927
+b053a480-e75c-4a57-9200-55b0ee596a53,2025-05-04,mood,He speaks with a deep tone.,Reflective,0.0
+add75983-3a3b-40c1-8db7-5e47fdfb646a,2025-05-04,mood,I am lost in the abyss of life.,Confused,-0.3182
+c22b7e2a-01c4-4efa-8984-bace083e24ec,2025-05-04,mood,I am furious about my past.,Angry,-0.5719
+017c55cf-b630-46df-a364-142f577175bc,2025-05-04,mood,My friends are amazing. ,Joyful,0.7845
+18c49c92-e4c2-41c5-af85-0e2e1bd03f58,2025-05-04,My journal,"I’m just... puzzled.
+About what I want, how I feel, who I’m becoming.
+I don’t even know.
+",Confused,-0.1027
+66680001-c7bf-4f8e-b584-872af3340c31,2025-05-05,mood,I am elated to know that my agony is flawed.,Joyful,0.34
+03d9587c-9a70-4055-b5fb-6d12e295f277,2025-05-05,mood,I am numb.,Anxious,-0.34
+20be288a-3e5e-4305-914b-6df154f20222,2025-05-06,mood,"Today, I slept with a lot of stressful thoughts.",Sad,-0.5106
+812687a3-f10c-4e79-8259-827a1a553ace,2025-05-17,Extras,I am blue today.,Sad,0.0
+837c8cf7-ed5b-4ce0-829a-ac3851bc805c,2025-05-17,Extras,"I passed my final exams, and I want to share this news with my parents. It is so exciting.",Joyful,0.7661
+64c878b6-bdf1-4ac8-922a-e34c1150b2db,2025-05-17,Extras,The thought of visiting Kashmir is serene. I hope we enjoy our trip. ,Peaceful,0.8442
+d1ed9996-3422-43bc-9305-2c9ad67590d5,2025-05-17,Extras,"My friend wears vibrant colors in summer. It is a refreshing gesture, I like it. ",Energetic,0.8442
+485f6856-ece3-42b7-9536-0e411541a84a,2025-05-17,Extras,She has artistic eyes and an expressive mode of conversation. It makes her attractive and charming.,Creative,0.7717
+d1102e6f-ea88-4a96-8302-a9ada2c9f854,2025-05-17,Extras,He is very perplexed in his conversation. Someone should train him in basic conversational skills.,Confused,-0.3804
+5f0e8b7c-38c6-46b3-89cc-1337b7075e26,2025-05-17,Extras,It is a very rare thing to be a gloomy person.,Sad,-0.1531
